@@ -1,0 +1,22 @@
+input{
+  
+  border: 1px solid #999999;
+  border-radius: 25px;
+  min-width: 250px;
+  width: 80%;
+  background-color: transparent;
+
+  color: #FFFFFF;
+  
+  font-size: 18px;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 400;
+
+  padding: 7px;
+  padding-left: 15px;
+  margin-right: 12px;
+}
+
+input::placeholder{
+  color: #FFFFFF;
+}
